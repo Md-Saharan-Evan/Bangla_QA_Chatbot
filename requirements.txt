@@ -1,0 +1,9 @@
+pdfplumber
+sentence-transformers
+chromadb
+langchain
+fastapi
+uvicorn
+numpy
+openai
+requests
